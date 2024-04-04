@@ -25,7 +25,7 @@
   - mysql.ini：连接池配置文件
   - connectionpools.cpp:连接池源文件
 - CMakeLists：CMake编译文件
-- autobuild.sh:编译文件
+- autobuild.sh:编译脚本文件
 
 ## 技术点
 1.MySQL数据库编程     
@@ -39,4 +39,3 @@
 9.智能指针shared_ptr     
 10.lambda表达式     
 11.生产者-消费者线程模型
-
