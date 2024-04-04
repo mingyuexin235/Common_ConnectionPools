@@ -26,3 +26,17 @@
   - connectionpools.cpp:连接池源文件
 - CMakeLists：CMake编译文件
 - autobuild.sh:编译文件
+
+## 技术点
+1.MySQL数据库编程     
+2.单例模式     
+3.queue队列容器     
+4.C++11多线程编程     
+5.线程互斥     
+6.线程同步通信     
+7.unique_lock     
+8.基于CAS的原子整形     
+9.智能指针shared_ptr     
+10.lambda表达式     
+11.生产者-消费者线程模型
+
